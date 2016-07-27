@@ -36,7 +36,7 @@ var CONFIG = {
   "sign": {
       "width": 46,
       "height": 64,
-      "scale": 1,
+      "scale": .5,
       "offset": -200,
       "speed": 474,
       "twoframe": true,
@@ -49,7 +49,7 @@ var CONFIG = {
     "height": 500,
     "space": 300,
     "offset": 150,
-    "speed": 1700,
+    "speed": 1,
     "interval": 1700 
   },
   "score": {

@@ -15,7 +15,7 @@ var CONFIG = {
       "x": 60,
       "width": 46,
       "height": 64,
-      "scale": 1,
+      "scale": .5,
       "gravity": 1200,
       "outkill": false,
       "flap": {

@@ -4,7 +4,7 @@ var CONFIG = {
   "bg": {
     "width": 960,
     "height": 568,
-    "scale": 1000000000000000000000000000000,
+    "scale": 10000000000000000000000000000000000000,
     "scroll": -50
   },
   "button": {
@@ -47,9 +47,9 @@ var CONFIG = {
   "pipe": {
     "width": 90,
     "height": 500,
-    "space": 30000000000000000000000000000,
+    "space": 300,
     "offset": 150,
-    "speed": 170,
+    "speed": 1700,
     "interval": 1700 
   },
   "score": {

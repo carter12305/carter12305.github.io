@@ -4,7 +4,7 @@ var CONFIG = {
   "bg": {
     "width": 960,
     "height": 568,
-    "scale": 1,
+    "scale": 1000000000000000000000000000000,
     "scroll": -50
   },
   "button": {

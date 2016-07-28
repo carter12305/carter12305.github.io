@@ -96,7 +96,7 @@ class PlayState {
     this.dodger.animations.add('blink');
     this.dodger.animations.play('blink',C.dodger.frames,true);
     game.physics.arcade.enable(this.dodger);
-    this.dodger.body.collideWorldBounds = true;
+    //this.dodger.body.collideWorldBounds = true;
     this.dodger.body.bounce.setTo(C.dodger.bounce);
     this.dodger.body.drag.setTo(C.dodger.drag);
 

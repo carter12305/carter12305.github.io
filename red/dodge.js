@@ -127,10 +127,10 @@ class PlayState {
       this.dodger.body.velocity.x = C.dodger.speed;
     }
     if (this.cursors.up.isDown) {
-      this.dodger.body.velocity.y = C.dodger.speed;
+      this.dodger.body.velocity.y = -C.dodger.speed;
     }
     if (this.cursors.down.isDown) {
-      this.dodger.body.velocity.y = -C.dodger.speed;
+      this.dodger.body.velocity.y = C.dodger.speed;
     }
     if (this.dodgeme.y >= 568) {
       this.resetDodgeme();
